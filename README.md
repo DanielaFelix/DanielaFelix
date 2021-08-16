@@ -40,17 +40,17 @@ Here are some ideas to get you started:
 <h2 align='center' 📫 Contact</h2>
 <p align='center'>
   <a href="mailto:danirfelix14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-flat?logo=GMail&style=for-the-badge&logoColor=#7D6B7DlabelColor=F12166&color=181433&logoWidth=30" />
+    <img src="https://img.shields.io/badge/Email-flat?logo=GMail&style=for-the-badge&logoColor=7D6B7DlabelColor=F12166&color=181433&logoWidth=30" />
   </a>&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/daniela-r-f%C3%A9lix/">
-    <img src="https://img.shields.io/badge/LinkedIn-flat?logo=LinkedIn&style=for-the-badge&logoColor=#7D6B7DabelColor=F12166&color=181433&logoWidth=30" />
+    <img src="https://img.shields.io/badge/LinkedIn-flat?logo=LinkedIn&style=for-the-badge&logoColor=7D6B7DabelColor=F12166&color=181433&logoWidth=30" />
   </a>&nbsp;&nbsp;
   <a href="https://api.whatsapp.com/send?phone=5585997336203&text=Ol%C3%A1%2C%20Daniela!">
-    <img src="https://img.shields.io/badge/Whatsapp-flat?logo=Whatsapp&style=for-the-badge&logoColor=#7D6B7DlabelColor=F12166&color=181433&logoWidth=30" />
+    <img src="https://img.shields.io/badge/Whatsapp-flat?logo=Whatsapp&style=for-the-badge&logoColor=7D6B7DlabelColor=F12166&color=181433&logoWidth=30" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/DanielaFelix">
-    <img src="https://img.shields.io/badge/GitHub-flat?logo=GitHub&style=for-the-badge&logoColor=#7D6B7DlabelColor=F12166&color=181433&logoWidth=30" />
+    <img src="https://img.shields.io/badge/GitHub-flat?logo=GitHub&style=for-the-badge&logoColor=7D6B7DlabelColor=F12166&color=181433&logoWidth=30" />
   </a>&nbsp;&nbsp;
 </p>
 <p align='center'>
