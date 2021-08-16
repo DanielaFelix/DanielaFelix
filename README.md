@@ -1,6 +1,6 @@
-### Hi I'm Daniela Félix 👋
+<!--### Hi I'm Daniela Félix 👋
 
-<!--
+
 **DanielaFelix/DanielaFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=DanielaFelix&color=006bed)
 
-# Daniela Félix :wave: &nbsp;
+# Hi I'm Daniela Félix :wave: &nbsp;
 
 <h3> 🦸‍♂️ &nbsp;About me </h3>
 
 <p>Hello :wave:, my name Daniela Félix, i am a Ux Designer and this is my Github :rocket:</p>
-<img align="Center" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="Center" width="300"/>
 
 - ⏳ &nbsp; 23 years.
 - 💻 &nbsp; Ux Designer.
@@ -44,12 +44,10 @@ Here are some ideas to get you started:
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-### 📫&nbsp; Where to find me
-
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerwillclefy&layout=compact&theme=radical" alt="My Github Stats">
 
-<h2 align='center'>📣 Contact 📣</h2>
+<h2 align='center' 📫 Contact</h2>
 <p align='center'>
   <a href="mailto:danirfelix14@gmail.com">
     <img src="https://img.shields.io/badge/Email-flat?logo=GMail&style=for-the-badge&logoColor=181433&labelColor=F12166&color=181433&logoWidth=30" />
